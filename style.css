@@ -1,0 +1,42 @@
+body{
+    background-color: #d5e1ef;
+}
+.card{
+    width: 1000px;
+position: absolute;
+margin-top: 8%;
+left: 50%;
+margin-left: -150px;
+}
+
+.qr-card{
+    width: 30%;
+    border-radius: 20px;
+    position: relative;
+    left: -325px;
+    top: -200px;
+}
+ 
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;600&display=swap');
+
+.text {
+    font-family: 'Outfit', sans-serif;
+	font-size: 15px;
+    position: relative;
+    text-align: center;
+    top: -185px;
+    left: -318px;
+    color: #898c93;
+}
+ 
+.title {
+    font-family: 'Outfit', sans-serif;
+	font-size: 22px;
+    text-align: center;
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 0;
+    left: -320px;
+    top: -180px;
+    color: #273d5d;
+}
